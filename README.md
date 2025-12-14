@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PertevSF90
-- 👀 I’m interested in Webdesign, Webdevelopment, Coding, Database/SQL, Mashine Learning, Data Science, Game Design and Game Development
-- 🌱 I’m currently learning HTML5/CSS and C# .Net/WPF/XAML
-- 💞️ I’m looking to collaborate on I don't know, whatever you want and I'm capable to do.
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Pertev
+- 👀 I’m interested in WinUI 3 Desktop, Mashine Learning, Data Science, Game Design and Game Development
+- 🌱 I’m currently learning Java, C#, XAML, Json and Azure shit.
+- 💞️ I’m looking to collaborate on where ever I am capable and welcomed to contribute 
+- 📫 How to reach me? Just here for now.
 
 <!---
 PertevSF90/PertevSF90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
